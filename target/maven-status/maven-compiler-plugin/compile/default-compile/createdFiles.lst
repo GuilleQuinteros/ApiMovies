@@ -1,0 +1,6 @@
+com\ar\api\Entidades\Pelicula.class
+com\ar\api\Entidades\Usuario.class
+com\ar\api\Api\CorsFilter.class
+com\ar\api\Persistencia\PeliculaDao.class
+com\ar\api\Api\PeliculaServerlet.class
+com\ar\api\Persistencia\dbConection.class
